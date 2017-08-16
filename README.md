@@ -7,3 +7,5 @@ Your agent is a program that perceives its digital environment, makes decisions,
 Perceive your environment and react accordingly!
 
 By [@jeromeschneider](https://twitter.com/jeromeschneider) and [@svensauleau](https://twitter.com/svensauleau)
+
+<img src="https://cloud.githubusercontent.com/assets/4974818/24494371/57a8073c-1532-11e7-9026-469640cea9a7.png" height="200" width="auto" />
