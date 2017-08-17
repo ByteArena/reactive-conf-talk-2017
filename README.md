@@ -10,4 +10,4 @@ Perceive your environment and react accordingly!
 
 By [@jeromeschneider](https://twitter.com/jeromeschneider) and [@svensauleau](https://twitter.com/svensauleau)
 
-<img src="https://github.com/ByteArena/reactive-conf-talk-2017/raw/master/bytearena.png" height="200" width="auto" />
+<img src="https://github.com/ByteArena/reactive-conf-talk-2017/raw/master/bytearena.jpg" height="300" width="auto" />
