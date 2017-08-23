@@ -10,7 +10,7 @@ By [@jeromeschneider](https://twitter.com/jeromeschneider) and [@svensauleau](ht
 
 #### Demo
 
-[![Demo](http://img.youtube.com/vi/IsLsM8PPml4/0.jpg)](http://www.youtube.com/watch?v=IsLsM8PPml4 "Video Title")
+[![Demo](http://img.youtube.com/vi/IsLsM8PPml4/0.jpg)](http://www.youtube.com/watch?v=IsLsM8PPml4 "Byte Arena, WIP preview")
 
 ---
 
