@@ -8,5 +8,6 @@ Perceive your environment and react accordingly!
 
 By [@jeromeschneider](https://twitter.com/jeromeschneider) and [@svensauleau](https://twitter.com/svensauleau)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IsLsM8PPml4" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/IsLsM8PPml4/0.jpg)](http://www.youtube.com/watch?v=IsLsM8PPml4 "Video Title")
+
 <img src="https://cloud.githubusercontent.com/assets/4974818/24494371/57a8073c-1532-11e7-9026-469640cea9a7.png" width="auto" />
